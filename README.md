@@ -14,5 +14,5 @@ Offline capable app for local restaurants reviews/information
 * Normalize.css (https://necolas.github.io/normalize.css/).
  
 # Run the Application
-* [Download] or [Clone] the Repository.(https://github.com/Cetoute/memory-game)
-* Open [index.html] file to view the project in your browser (https://cetoute.github.io/memory-game/).
+* [Download] or [Clone] the Repository.(git remote add origin https://github.com/Cetoute/Restaurant-review-App.git)
+ 
